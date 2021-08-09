@@ -1,3 +1,2 @@
-# njc
-site url:
+# site url:
 https://liuxiaopei1988.github.io/njc/
