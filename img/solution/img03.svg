@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="217" viewBox="0 0 244 217">
+  <g id="组_982" data-name="组 982" transform="translate(-561 -1858)">
+    <ellipse id="椭圆_60" data-name="椭圆 60" cx="66.5" cy="67" rx="66.5" ry="67" transform="translate(561 1941)" fill="rgba(22,191,242,0.4)" opacity="0.8"/>
+    <ellipse id="椭圆_59" data-name="椭圆 59" cx="66.5" cy="67" rx="66.5" ry="67" transform="translate(672 1941)" fill="rgba(0,114,221,0.3)" opacity="0.8"/>
+    <circle id="椭圆_61" data-name="椭圆 61" cx="66.5" cy="66.5" r="66.5" transform="translate(614 1858)" fill="rgba(54,212,194,0.4)" opacity="0.8"/>
+    <text id="when" transform="translate(596 2018)" fill="#07285c" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">when</tspan></text>
+    <text id="where" transform="translate(703 2018)" fill="#07285c" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">where</tspan></text>
+    <text id="who" transform="translate(656 1935)" fill="#07285c" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">who</tspan></text>
+  </g>
+</svg>

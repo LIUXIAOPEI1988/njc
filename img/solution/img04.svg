@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="238" viewBox="0 0 243 238">
+  <g id="组_982" data-name="组 982" transform="translate(-929 -1850)">
+    <circle id="椭圆_64" data-name="椭圆 64" cx="66.5" cy="66.5" r="66.5" transform="translate(929 1955)" fill="rgba(22,191,242,0.4)" opacity="0.8"/>
+    <path id="路径_972" data-name="路径 972" d="M66.46,0A66.46,66.46,0,1,1,0,66.46,66.46,66.46,0,0,1,66.46,0Z" transform="translate(1039 1955)" fill="rgba(0,114,221,0.3)" opacity="0.8"/>
+    <circle id="椭圆_63" data-name="椭圆 63" cx="66.5" cy="66.5" r="66.5" transform="translate(929 1850)" fill="rgba(54,212,194,0.4)" opacity="0.8"/>
+    <circle id="椭圆_65" data-name="椭圆 65" cx="66.5" cy="66.5" r="66.5" transform="translate(1039 1850)" fill="rgba(9,149,181,0.4)" opacity="0.8"/>
+    <text id="when" transform="translate(967 2030)" fill="#07285c" font-size="21" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">when</tspan></text>
+    <text id="where" transform="translate(1073 2030)" fill="#07285c" font-size="21" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">where</tspan></text>
+    <text id="who" transform="translate(973 1925)" fill="#07285c" font-size="21" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">who</tspan></text>
+    <text id="what" transform="translate(1080 1925)" fill="#07285c" font-size="21" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">what</tspan></text>
+  </g>
+</svg>

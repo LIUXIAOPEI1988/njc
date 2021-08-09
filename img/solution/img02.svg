@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="132" viewBox="0 0 242 132">
+  <g id="组_982" data-name="组 982" transform="translate(-194 -1895)">
+    <circle id="椭圆_50" data-name="椭圆 50" cx="66" cy="66" r="66" transform="translate(194 1895)" fill="rgba(22,191,242,0.4)" opacity="0.8"/>
+    <circle id="椭圆_51" data-name="椭圆 51" cx="66" cy="66" r="66" transform="translate(304 1895)" fill="rgba(0,114,221,0.3)" opacity="0.8"/>
+    <text id="when" transform="translate(230 1971)" fill="#07285c" font-size="22" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">when</tspan></text>
+    <text id="where" transform="translate(336 1971)" fill="#07285c" font-size="22" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="0" y="0">where</tspan></text>
+  </g>
+</svg>
